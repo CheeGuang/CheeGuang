@@ -1,6 +1,6 @@
 <!-- Add a banner image -->
 <p align="center">
-  <img src="banner.png" alt="Jeffrey's Banner" />
+  <img src="Banner.png" alt="Jeffrey's Banner" />
 </p>
 
 <h1 align="left">Hi 👋, I'm Jeffrey</h1>
